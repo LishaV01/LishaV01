@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @LishaV01
-- 👀 I’m interested in Game design and Development
-- 🌱 I’m currently learning Msc Computer science and Information technology and game design
+- 👀 I’m interested in Datascience, AI,ML
+- 🌱 I’m currently learning Msc Computer science and Information technology 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: Multidisciplinary
+- ⚡ Fun fact: Pushing  0 and 1
 
 <!---
 LishaV01/LishaV01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
