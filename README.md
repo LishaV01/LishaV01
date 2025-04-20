@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @LishaV01
-- 👀 I’m interested in Datascience, AI,ML
-- 🌱 I’m currently learning Msc Computer science and Information technology 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: Pushing  0 and 1
+🌐 I’m currently pursuing my Master of Science in Applied Data Science and Analytics at SRH Hochschule Heidelberg, and I am passionate about solving real-world problems through data science and technology.
 
-<!---
-LishaV01/LishaV01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📊 My skill set includes:
+Programming Languages: Python, SQL, R
+Technologies & Tools: Machine Learning (ML), NLP, Neural Networks, Generative AI, Data Mining, Predictive Analytics, ETL, Data Pipelines, Big Data, Hadoop, Spark, Data Scraping
+Cloud: Google Cloud Platform (GCP), Microsoft Azure
+Visualization: Tableau, Power BI, SAS Visual Analytics, Excel
+Libraries & Frameworks: Pandas, Scikit-learn, TensorFlow, PyTorch, NLTK, Spacy
+Other Tools: Git, Docker, Google Cloud SDK, API Integration, MS Office
+
+
+🎓 Education:
+Master of Science: Computer Science and Information Technology ( Specialisation in Data Science)
+
+
+🔗 Let's connect!
