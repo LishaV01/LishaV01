@@ -1,4 +1,4 @@
-🌐 I’m currently pursuing my Master of Science in Applied Data Science and Analytics at SRH Hochschule Heidelberg, and I am passionate about solving real-world problems through data science and technology.
+🌐 I’m currently pursuing my Master of Science in Computer Science and Information Technology at Jain Univeristy, and I am passionate about solving real-world problems through data science and technology.
 
 📊 My skill set includes:
 Programming Languages: Python, SQL, R
