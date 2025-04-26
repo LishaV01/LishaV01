@@ -1,7 +1,7 @@
 🌐 A Master of Science in Computer Science and Information Technology(Data science) at Jain Univeristy, and I am passionate about solving real-world problems through technology.
 
 📊 My skill set includes:
-Programming Languages: Python, SQL, R
+Programming Languages: Python, SQL, R , HTML, CSS, JAVASCRIPT
 Technologies & Tools: Machine Learning (ML), NLP, Neural Networks, Generative AI, Data Mining, Predictive Analytics, ETL, Data Pipelines, Big Data, Hadoop, Spark, Data Scraping
 Cloud: Google Cloud Platform (GCP), Microsoft Azure
 Visualization: Tableau, Power BI, SAS Visual Analytics, Excel
